@@ -42,3 +42,9 @@ Strong and consistent growth in sales and profit from 2014–2017.
 The West region records the highest overall sales.
 
 Most customers prefer Standard Class shipping mode.
+
+## Dashboard
+
+<img width="695" height="377" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/406d208b-41b5-4b9e-9718-b3d4e1c9a5de" />
+<img width="694" height="374" alt="Profit Details" src="https://github.com/user-attachments/assets/fed88486-2f7c-4c5d-b868-7bbb183f84fc" />
+
